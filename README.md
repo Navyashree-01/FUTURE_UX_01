@@ -1,7 +1,6 @@
 
   # Local Service Website Redesign
-
-  This is a code bundle for Local Service Website Redesign. The original project is available at https://www.figma.com/design/9lsACUSOZdp5UPnOYYTllR/Local-Service-Website-Redesign.
+http://localhost:5173/
 
   ## Running the code
 
